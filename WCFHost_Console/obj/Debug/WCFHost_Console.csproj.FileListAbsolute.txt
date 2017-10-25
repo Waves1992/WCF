@@ -1,0 +1,8 @@
+F:\MakeLove\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.exe.config
+F:\MakeLove\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.csprojResolveAssemblyReference.cache
+F:\MakeLove\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.exe
+F:\MakeLove\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.pdb
+F:\MakeLove\WCF\WCFHost_Console\bin\Debug\WCFLibrary.dll
+F:\MakeLove\WCF\WCFHost_Console\bin\Debug\WCFLibrary.pdb
+F:\MakeLove\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.exe
+F:\MakeLove\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.pdb

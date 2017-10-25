@@ -1,0 +1,5 @@
+F:\MakeLove\WCF\WCFLibrary\bin\Debug\WCFLibrary.dll.config
+F:\MakeLove\WCF\WCFLibrary\bin\Debug\WCFLibrary.dll
+F:\MakeLove\WCF\WCFLibrary\bin\Debug\WCFLibrary.pdb
+F:\MakeLove\WCF\WCFLibrary\obj\Debug\WCFLibrary.dll
+F:\MakeLove\WCF\WCFLibrary\obj\Debug\WCFLibrary.pdb

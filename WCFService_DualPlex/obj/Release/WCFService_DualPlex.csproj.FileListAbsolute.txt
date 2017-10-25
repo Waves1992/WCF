@@ -1,0 +1,4 @@
+F:\MakeLove\WCF\WCFService_DualPlex\bin\WCFService_DualPlex.dll
+F:\MakeLove\WCF\WCFService_DualPlex\bin\WCFService_DualPlex.pdb
+F:\MakeLove\WCF\WCFService_DualPlex\obj\Release\WCFService_DualPlex.dll
+F:\MakeLove\WCF\WCFService_DualPlex\obj\Release\WCFService_DualPlex.pdb

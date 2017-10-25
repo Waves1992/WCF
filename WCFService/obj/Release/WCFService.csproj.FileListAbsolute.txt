@@ -1,0 +1,4 @@
+F:\MakeLove\WCF\WCFService\bin\WCFService.dll
+F:\MakeLove\WCF\WCFService\bin\WCFService.pdb
+F:\MakeLove\WCF\WCFService\obj\Release\WCFService.dll
+F:\MakeLove\WCF\WCFService\obj\Release\WCFService.pdb

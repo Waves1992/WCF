@@ -1,0 +1,4 @@
+F:\MakeLove\WCF\WCFHost_WAS\bin\WCFHost_WAS.dll
+F:\MakeLove\WCF\WCFHost_WAS\bin\WCFHost_WAS.pdb
+F:\MakeLove\WCF\WCFHost_WAS\obj\Debug\WCFHost_WAS.dll
+F:\MakeLove\WCF\WCFHost_WAS\obj\Debug\WCFHost_WAS.pdb

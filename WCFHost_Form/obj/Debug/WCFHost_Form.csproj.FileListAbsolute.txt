@@ -1,0 +1,11 @@
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.csprojResolveAssemblyReference.cache
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.MainForm.resources
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.Properties.Resources.resources
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.csproj.GenerateResource.Cache
+F:\MakeLove\WCF\WCFHost_Form\bin\Debug\WCFHost_Form.exe.config
+F:\MakeLove\WCF\WCFHost_Form\bin\Debug\WCFHost_Form.exe
+F:\MakeLove\WCF\WCFHost_Form\bin\Debug\WCFHost_Form.pdb
+F:\MakeLove\WCF\WCFHost_Form\bin\Debug\WCFLibrary.dll
+F:\MakeLove\WCF\WCFHost_Form\bin\Debug\WCFLibrary.pdb
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.exe
+F:\MakeLove\WCF\WCFHost_Form\obj\Debug\WCFHost_Form.pdb

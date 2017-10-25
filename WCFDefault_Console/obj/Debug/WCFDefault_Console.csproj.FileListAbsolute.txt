@@ -1,0 +1,5 @@
+F:\MakeLove\WCF\WCFDefault_Console\bin\Debug\WCFDefault_Console.exe.config
+F:\MakeLove\WCF\WCFDefault_Console\bin\Debug\WCFDefault_Console.exe
+F:\MakeLove\WCF\WCFDefault_Console\bin\Debug\WCFDefault_Console.pdb
+F:\MakeLove\WCF\WCFDefault_Console\obj\Debug\WCFDefault_Console.exe
+F:\MakeLove\WCF\WCFDefault_Console\obj\Debug\WCFDefault_Console.pdb

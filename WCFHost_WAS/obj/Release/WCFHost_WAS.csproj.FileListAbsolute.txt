@@ -1,0 +1,5 @@
+F:\MakeLove\WCF\WCFHost_WAS\bin\WCFHost_WAS.dll
+F:\MakeLove\WCF\WCFHost_WAS\bin\WCFHost_WAS.pdb
+F:\MakeLove\WCF\WCFHost_WAS\obj\Release\WCFHost_WAS.csprojResolveAssemblyReference.cache
+F:\MakeLove\WCF\WCFHost_WAS\obj\Release\WCFHost_WAS.dll
+F:\MakeLove\WCF\WCFHost_WAS\obj\Release\WCFHost_WAS.pdb

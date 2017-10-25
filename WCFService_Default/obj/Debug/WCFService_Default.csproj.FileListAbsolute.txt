@@ -1,0 +1,4 @@
+F:\MakeLove\WCF\WCFService_Default\bin\WCFService_Default.dll
+F:\MakeLove\WCF\WCFService_Default\bin\WCFService_Default.pdb
+F:\MakeLove\WCF\WCFService_Default\obj\Debug\WCFService_Default.dll
+F:\MakeLove\WCF\WCFService_Default\obj\Debug\WCFService_Default.pdb

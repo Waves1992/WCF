@@ -1,0 +1,5 @@
+F:\MakeLove\WCF\WCFClient_DualPlex\bin\Debug\WCFClient_DualPlex.exe.config
+F:\MakeLove\WCF\WCFClient_DualPlex\bin\Debug\WCFClient_DualPlex.exe
+F:\MakeLove\WCF\WCFClient_DualPlex\bin\Debug\WCFClient_DualPlex.pdb
+F:\MakeLove\WCF\WCFClient_DualPlex\obj\Debug\WCFClient_DualPlex.exe
+F:\MakeLove\WCF\WCFClient_DualPlex\obj\Debug\WCFClient_DualPlex.pdb

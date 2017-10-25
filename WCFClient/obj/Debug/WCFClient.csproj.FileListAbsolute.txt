@@ -1,0 +1,5 @@
+F:\MakeLove\WCF\WCFClient\bin\WCFClient.dll
+F:\MakeLove\WCF\WCFClient\bin\WCFClient.pdb
+F:\MakeLove\WCF\WCFClient\obj\Debug\WCFClient.dll
+F:\MakeLove\WCF\WCFClient\obj\Debug\WCFClient.pdb
+F:\MakeLove\WCF\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
